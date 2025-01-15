@@ -1,0 +1,6 @@
+opencv-python
+tensorflow
+deepface
+pandas
+numpy
+streamlit
